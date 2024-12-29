@@ -45,7 +45,7 @@ password_analyzer = PasswordAnalyzer.new
 puts password_analyzer.analyze_password("")
 
 🎯 Example Output
-
+```
 # Password Analysis Report
 
 1. Length Check
@@ -68,7 +68,7 @@ puts password_analyzer.analyze_password("")
 
 5. Secure Hash (BCrypt)
    $2a$12$8qZp3XbZEKlwRk7U98vPd.KzQeT.gP6PKoiDlRGxtW5
-
+```
 ⚙️ Configuration
 
 Modify the following parameters in the PasswordAnalyzer class to customize behavior:
