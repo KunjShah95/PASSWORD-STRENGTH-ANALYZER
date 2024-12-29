@@ -42,7 +42,7 @@ ruby password_analyzer.rb
 Input your password to analyze it and view the detailed report:
 
 password_analyzer = PasswordAnalyzer.new
-puts password_analyzer.analyze_password("MyStr0ngP@ssw0rd!")
+puts password_analyzer.analyze_password("")
 
 🎯 Example Output
 
