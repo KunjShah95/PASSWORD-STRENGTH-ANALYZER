@@ -31,13 +31,16 @@ gem install zxcvbn-ruby bcrypt
 Running the Script
 
 Clone the repository:
-
+```
 git clone https://github.com/KunjShah95/PasswordAnalyzer.git
+
+
 cd PasswordAnalyzer
-
+```
 Run the script:
-
+```
 ruby password_analyzer.rb
+```
 
 Input your password to analyze it and view the detailed report:
 
